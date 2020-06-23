@@ -12,7 +12,9 @@ body {
   font-family: "Lucida Grande";
 }
 
-
+  .menu-icon {
+        display: none;
+    }
 
 
 
